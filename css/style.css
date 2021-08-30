@@ -1,0 +1,86 @@
+h1{font-family: 'Bree Serif', serif; font-size: 80px; color: #2ec2bd;}
+h2{font-family: 'Bree Serif', serif; font-size: 46px; color: #2ec2bd;}
+h3{font-family: 'Bree Serif', serif; font-size: 36px; color: #2ec2bd;}
+p{font-family: 'Work Sans', sans-serif; color: #727272;}
+
+
+
+header{
+    background-image: url(../image/hero.jpeg);
+    background-size: cover;
+    height: 800px;
+}
+.iconn{height: 25px; margin-right: 5px;}
+.navbar-brand p{margin-bottom: 2px; color: #2ec2bd;}
+.logo{margin-right: 117px;}
+.navbar{background: transparent !important;}
+.navbar-light .navbar-toggler-icon{background-image: url(../image/toggle.png);}
+.navbar-light .navbar-toggler{border-color: transparent !important;}
+.navbar-brand span p{font-size: 22px; font-weight: 600; color: #2ec2bd;}
+.hero{height: 700px;}
+.btn{background: #ffd38e;
+    color: #6a5c48;
+    border: none;
+    border-radius: 50px;
+    font-weight: 500;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    padding: 8px 35px;}
+
+    /*hello */
+ .hello img{margin-left: -15px;}   
+.hellotext img{max-width: 100px;} 
+.hellotext{padding: 50px 60px !important;}  
+.hellotext h3{margin-top: 30px; font-size: 40px;}
+.hellotext p{font-size: 20px; line-height: 38px; padding-right: 70px; color:#6a5c48 ;}
+.hellotext .btn:hover{background:#ffd38e; color: #6a5c48;}
+/* look */
+.look{background: #ffd38e;}
+.look img{max-width: 400px;}
+.look .row{padding-top: 100px; padding-left: 33px; padding-right: 42px;}
+.look .btn1{background: #fff !important; color: #2ec2bd !important;}
+.look .btna{color: #c0862a; font-size: 22px; font-family: 'Work Sans', sans-serif;}
+.look p{font-size: 28px; line-height: 38px; color: #c0862a; }
+/* feature */
+.feature{border-bottom: 5px solid #ffd38e;}
+.feature h3{font-size: 36px; line-height: 35px; margin: 20px 0;}
+.feature .row{padding:100px 15px}
+.feature p{color: #c0862a; font-size: 22px;}
+.feature .row .col-md-4{padding: 0px 30px;}
+/* doctors */
+.doctors{background: #e8edf1;}
+.doctors p{font-size: 22px; font-weight: 600;}
+.doctors span p{color: #2ec2bd; font-weight: 400;}
+.btn2{border-radius: 50px; font-size: 14px; font-weight: 300; padding: 5px 15px;}
+.doctors .ab{padding-left: 3rem;}
+/* tagline */
+.tagline p{font-size: 26px; color: #c3cad0;}
+.tagline .container{padding: 120px 80px;}
+
+/* expect */
+.expect{background: #ffd38e;}
+.expect img{width: 450px;}
+.expect p{color: #c0862a; font-size: 22px; margin-top: 40px;}
+.expect .btn2{font-size: 20px; margin-top: 50px;}
+.expect .row{padding-top: 100px;}
+/* service */
+.services p{color: #c0862a; font-size: 22px;}
+.services .space{padding: 0px 100px;}
+/* brand */
+.brand{background: #e8edf1; padding: 70px 0;}
+.brand img{width: 130px;}
+.brand p{color: #2ec2bd; font-size: 24px;}
+.brand span{font-weight: bold;}
+/* review */
+.reviews img{width: 250px;}
+.reviews .container{padding: 100px 0;}
+/* contact */
+.contact{background: #e8edf1;}
+.contact p{font-size: 22px; font-weight: 600;}
+/* footer */
+.tfoot{background: #53bdbd;}
+.tfoot i{color: #ffd38e;}
+.tfoot h2, .tfoot p{color: #fff;}
+.tfoot h2{font-size: 40px;}
+.bfoot{background: #ffd38e;}
+.bfoot p{color: #53bdbd;}
