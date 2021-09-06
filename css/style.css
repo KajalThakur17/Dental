@@ -298,6 +298,23 @@ header {
 
 @media (max-width:780px) {
     h1 {
-        font-size: 50px;
+        font-size: 40px;
+    }
+
+    header {
+        height: 500px;
+    }
+
+    .hero {
+        height: 300px;
+    }
+
+    .hellotext img{
+        margin: 0;
+        max-width: 100%;
+    }
+
+    .hellotext {
+        padding: 50px 10px !important;
     }
 }
